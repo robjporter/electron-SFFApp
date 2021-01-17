@@ -1,7 +1,7 @@
 {
   "name": "electron-SFFApp",
   "productName": "electron-SFFApp",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "My Electron application description",
   "main": "src/index.js",
   "scripts": {
